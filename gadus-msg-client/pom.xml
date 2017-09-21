@@ -11,5 +11,12 @@
 
     <artifactId>gadus-msg-client</artifactId>
 
+    <dependencies>
+        <dependency>
+            <groupId>org.wulfnoth</groupId>
+            <artifactId>gadus-msg-common</artifactId>
+            <version>1.0-SNAPSHOT</version>
+        </dependency>
+    </dependencies>
 
 </project>
